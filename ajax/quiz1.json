@@ -1,0 +1,72 @@
+{
+    "quizID": "Bla Bla Questions",
+    "quizMetaData":
+    {
+        "title": "Bla Bla Knowledge",
+        "imageURI": "https://cdn.gtaboom.com/wp-content/uploads/2013/10/gta-online-logo.png"
+
+    },
+    "quizContent":
+		[
+			{
+				"question": "How many story mode characters does this game feature?",
+				"answers": [{
+						"answer": "1",
+						"feedback": false
+					},
+					{
+						"answer": "2",
+						"feedback": false
+					},
+					{
+						"answer": "3",
+						"feedback": true
+					},
+					{
+						"answer": "4",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "How long does the average player take to finish gta 5 story?",
+				"answers": [{
+						"answer": "20-21 hours",
+						"feedback": false
+					},
+					{
+						"answer": "30-31 hours",
+						"feedback": true
+					},
+					{
+						"answer": "40-41 hours",
+						"feedback": false
+					},
+					{
+						"answer": "50-51 hours",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "What is the fastest time anyone has completed gta5?",
+				"answers": [{
+						"answer": "2 hours",
+						"feedback": false
+					},
+					{
+						"answer": "4 hours",
+						"feedback": false
+					},
+					{
+						"answer": "6 hours",
+						"feedback": true
+					},
+					{
+						"answer": "8 hours",
+						"feedback": false
+					}
+				]
+			}
+		]
+	}
